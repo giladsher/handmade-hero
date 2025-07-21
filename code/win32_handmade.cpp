@@ -6,5 +6,5 @@ int CALLBACK WinMain(
 	LPSTR lpCmdLine,
 	nCmdShow
 ){
-
+	return(0);
 }
