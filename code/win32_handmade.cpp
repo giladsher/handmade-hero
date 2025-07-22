@@ -4,7 +4,7 @@ int CALLBACK WinMain(
 	HINSTANCE hInstance,
 	HINSTANCE hPrevInstance,
 	LPSTR lpCmdLine,
-	nCmdShow
+	int nCmdShow
 ){
 	return(0);
 }
